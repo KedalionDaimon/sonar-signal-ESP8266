@@ -5,14 +5,25 @@ Two ESP8266 Wemos D1 mini modules, A and B, connect to each other, where the one
 
 Wiring:
 
+
 Sonar detector to ESP866
+
 VCC : 5V
+
 TRIG : D6
+
 ECHO : D5
+
 GND : G
 
+
+
 Traffic lights to ESP8266
+
 GND : G
+
 R : D7
+
 Y : D6
+
 G : D5
